@@ -1,4 +1,4 @@
-# Verilog implementation of a RICS-V pipelined-CPU
+# Verilog implementation of a RISC-V pipelined-CPU
 
 ## Datapath
 
