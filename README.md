@@ -28,4 +28,4 @@
 
 - beq rs1, rs2, imm (branch)
 
-Instructions should be convert into RISC-V machine code format for CPU input
+Instructions should be convert into RISC-V machine code format for CPU input.
